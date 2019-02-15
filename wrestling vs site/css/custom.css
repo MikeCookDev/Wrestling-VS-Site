@@ -1,8 +1,20 @@
 .carousel {
-	width: 900px;
+	width: 100%;
 	margin: 0 auto;
 }
 
 nav {
   margin-bottom: 5px;
+}
+
+.card-deck{
+	text-align: center;
+}
+
+.card-body{
+	background-color: #315659;
+}
+
+.bg{
+	background-color: #001011;
 }
